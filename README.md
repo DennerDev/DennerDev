@@ -6,7 +6,7 @@
 <br/>
 </div>
 
-
+### Entre em contato:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennerpinho/)
 [![G-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Dennerpinho@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DennerDev)
@@ -27,14 +27,10 @@
  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="BancoDeDados" height="50" width="50" />
 </div><br/><br/>
 
-### Meu Objetivo  💻
--[ Paltaformas das quais usa para estudar.]()
+### Meu Objetivo 💻
 
+Espero em breve me tromar um desenvolver web, eu sou apaixonado pelo front end e essa tecnocias, e para para isso continuo estudando básico para quem sabe em breve está no mercado de trabalho.
 
-
-
-
-Sou apaixonada pelo front end, apreender é algo que motiva todos dias.<br/>
-Procuro novos desafios profissionais e uma efetivação no mercado na área de T.I como Estagiário ou Developer JR. Para isso estou desenvolvendo projetos para melhor e buscar capacitar ainda mais.
+. Estudante de Ciência da Computação // 3 semestre
 
 
