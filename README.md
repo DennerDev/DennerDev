@@ -1,5 +1,5 @@
 
-### Olá! Meu nome é Denner Pinho 💁‍♂️ 
+### Olá! Meu nome é Denner Pinho
 <div>
 <br/>
 </div>
