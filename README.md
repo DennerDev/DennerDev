@@ -5,7 +5,7 @@
 </div>
 
 ### Entre em contato:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennerpinho/)
+[![Linkedin](https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png)](https://www.linkedin.com/in/dennerpinho/)
 [![G-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Dennerpinho@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DennerDev)
 <div>
@@ -29,6 +29,6 @@
 
 Espero em breve me tromar um desenvolver web, eu sou apaixonado pelo front end e essa tecnocias, e para para isso continuo estudando básico para quem sabe em breve está no mercado de trabalho.
 
-. Estudante de Ciência da Computação // 4º semestre
+. Estudante de Ciência da Computação - 4º semestre.
 A Procuro novos desafios profissionais e uma efetivação no mercado na área de T.I como Estagiário ou Desenvolvedor JR focado no Front End. Sou uma pessoa compromissada, pontual e proativa, sempre disposto a apreender e a me desenvolver junto com os meus colegas de trabalho e a empresa.
 
