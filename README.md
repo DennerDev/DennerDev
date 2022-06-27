@@ -30,5 +30,5 @@
 Espero em breve me tromar um desenvolver web, eu sou apaixonado pelo front end e essa tecnocias, e para para isso continuo estudando básico para quem sabe em breve está no mercado de trabalho.
 
 . Estudante de Ciência da Computação // 4º semestre
-
+A Procuro novos desafios profissionais e uma efetivação no mercado na área de T.I como Estagiário ou Desenvolvedor JR focado no Front End. Sou uma pessoa compromissada, pontual e proativa, sempre disposto a apreender e a me desenvolver junto com os meus colegas de trabalho e a empresa.
 
