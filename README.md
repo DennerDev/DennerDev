@@ -21,7 +21,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="Html5" height="50" width="50" />
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="cc3" height="50" width="50" />
  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" height="50" width="50" />
- <img src="https://icon-icons.com/icon/java-original-wordmark-logo/146459" alt="JAVA" height="50" width="50" />
+ <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="JAVA" height="50" width="50" />
  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="BancoDeDados" height="50" width="50" />
 </div><br/><br/>
 
