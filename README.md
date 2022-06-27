@@ -6,8 +6,8 @@
 
 ### Entre em contato:
 [![Linkedin](https://cdn.icon-icons.com/icons2/99/PNG/64/linkedin_socialnetwork_17441.png)](https://www.linkedin.com/in/dennerpinho/)
-[![G-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Dennerpinho@gmail.com) 
-[![Linkedin](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DennerDev)
+[![G-Mail](https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png)](Dennerpinho@gmail.com) 
+[![Linkedin](https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png)](https://github.com/DennerDev)
 <div>
 <br/>
 </div>
