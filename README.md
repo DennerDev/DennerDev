@@ -23,6 +23,7 @@
  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" height="50" width="50" />
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="JAVA" height="50" width="50" />
  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="BancoDeDados" height="50" width="50" />
+ <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="BancoDeDados" height="50" width="50" />
 </div><br/><br/>
 
 ### Meu Objetivo 💻
